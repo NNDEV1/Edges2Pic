@@ -6,6 +6,13 @@ import time
 from matplotlib import pyplot as plt
 from IPython import display
 
+from keras.models import load_model
+from keras.preprocessing.image import img_to_array
+from keras.preprocessing.image import load_img
+from numpy import load
+from numpy import expand_dims
+from matplotlib import pyplot
+
 # load an image
 def load_image(filename, size=(256,256)):
 	# load image with the preferred size
