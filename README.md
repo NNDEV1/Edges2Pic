@@ -13,7 +13,7 @@
   <a href="https://github.com/NNDEV1/Edges2Pic">
   </a>
 
-  <h3 align="center">Generating Colored pictures from pictures of edges</h3>
+  <h3 align="center">Pix2Pix Edges to Picture</h3>
 
   <p align="center">
     <br />
